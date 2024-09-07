@@ -1,40 +1,23 @@
-This repository contains the comprehensive Power BI Business Analysis Report for Freshco Hypermarket. The project involves analyzing various aspects of Freshco’s business operations, customer behavior, and sales trends, providing data-driven insights to enhance business strategies and operational efficiency.
+This repository contains a comprehensive analysis of Freshco Hypermarket's performance, utilizing Microsoft Excel for data analysis and PowerPoint for presenting the findings. The project provides insights into various aspects of the business, such as sales trends, customer behavior, delivery performance, and operational efficiencies. Through this analysis, key areas for improvement and strategic recommendations are identified to enhance business operations and customer satisfaction.
 
--Project Objective:
-The main objective of this project is to analyze Freshco Hypermarket's key performance indicators (KPIs), sales data, and customer behavior to uncover trends, identify areas for improvement, and offer strategic recommendations. The analysis helps in making informed decisions to optimize performance across various metrics like order completions, delivery efficiency, customer satisfaction, and sales.
+Project Objective
 
-Key Analyses:
--Order Level Analysis:
+The primary objective of this project is to analyze Freshco Hypermarket's sales and operational data using Excel and to present key findings and recommendations using PowerPoint. The analysis focuses on understanding key performance indicators (KPIs), uncovering trends, and providing actionable insights to optimize business strategies. The aim is to improve customer satisfaction, streamline operations, and drive business growth.
 
--Top Delivery Areas: Analyzed top 10 delivery areas including regions like Bellandur Green Glen and HSR Layout. Afternoon slots recorded the highest number of orders, suggesting peak shopping activity during lunch hours.
-Discount Trends: Average discount percentages increased from January to September, with the highest discounts offered in the afternoon slot, peaking in August at 20.49%.
-Completion Rate Analysis:
+Key Insights
 
--Source-wise Completion Rates: Highest completion rates were observed from Organic sources, followed by Snapchat, with Instagram and Offline Campaigns performing lower.
-Lifetime Value (LTV): Customers acquired through Organic sources had the highest average lifetime value, while Instagram showed the lowest.
-Customer Level Analysis:
+The order level analysis revealed that the afternoon slot consistently recorded the highest number of orders, indicating peak activity during midday, likely driven by lunch orders or shopping habits. Discount trends were also analyzed, with a notable increase in average discount percentages from January to September. August showed the highest discount percentage of 20.49% in the afternoon slot, reflecting strategic promotional efforts during this period.
 
--Acquisition Trends: Customer acquisitions peaked in January and gradually declined through September.
-Revenue Analysis: Snapchat generated the highest average revenue per customer, while Instagram performed the weakest.
-Delivery Analysis:
+In the completion rate analysis, it was observed that organic sources had the highest completion rates, followed closely by customers acquired through Snapchat. Instagram and offline campaign sources, however, had lower completion rates. Additionally, customers acquired from organic sources displayed the highest lifetime value (LTV), while Snapchat led in generating the highest average revenue per customer.
 
--Weekday vs Weekend Delivery Times: Weekdays consistently showed shorter delivery times compared to weekends, with the afternoon slot performing the best.
-Delivery Charges: Late-night deliveries incurred the highest charges, while morning deliveries were the least expensive.
-Product Rating Analysis:
+The customer level analysis highlighted that customer acquisition peaked in January and gradually declined throughout the year, with September recording the lowest number of acquisitions. Product ratings were generally high, with the afternoon time slot receiving the highest customer satisfaction ratings. Most product categories received ratings above 4.8, demonstrating high levels of customer approval.
 
--Highest-Rated Products: Categories like Furniture and Mattress and Flowers received the highest customer ratings, while Cool Stuff and Pet Shop showed more variability in ratings.
-State-wise Sales Analysis:
+The delivery analysis identified that delivery times were shorter on weekdays compared to weekends, with afternoon deliveries being the most efficient. Late-night deliveries, however, incurred the highest delivery charges, while morning deliveries were the least expensive, suggesting opportunities for optimizing delivery pricing strategies.
 
--Top Sales States: São Paulo led in sales, followed by Rio de Janeiro and Minas Gerais.
-Low Sales States: States like Rondônia and Acre showed minimal sales, indicating less market penetration in these regions.
-Seasonal Sales Patterns:
+State-wise sales analysis revealed that São Paulo, Rio de Janeiro, and Minas Gerais were the top-performing regions, contributing the most to overall sales. In contrast, states like Rondônia and Acre showed lower sales performance, indicating potential for market expansion in these regions.
 
--Peak Sales Period: Quarter 2 recorded the highest sales, possibly driven by seasonal promotions and holidays. A significant decline was observed in Quarter 4, likely due to post-holiday slowdowns.
-Revenue Trends (2016-2018):
+Finally, the revenue trends and seasonal sales analysis showed that sales peaked during the second quarter of the year, likely driven by seasonal promotions and holidays. A decline in sales was observed in the fourth quarter, which could be attributed to post-holiday slowdowns. The revenue growth from 2016 to 2018 was steady, showcasing the effectiveness of Freshco's business strategies during this period.
 
--Strong Growth: The company experienced significant growth in revenue from 2016 to 2018, with a slight stabilization in mid-2017. The trend highlights the effectiveness of marketing and customer acquisition strategies during these years.
+Tools and Technologies
 
-
-Tools and Technologies:
--Power BI: Used to create interactive dashboards and perform data visualizations for tracking key performance indicators, sales trends, and customer behavior.
--Data Sources: Sales, customer, and operational data from Freshco Hypermarket's internal databases.
+The analysis was conducted using Microsoft Excel for data manipulation, pivot tables, and charting to derive insights from the data. Microsoft PowerPoint was used to create a visual presentation of the findings, showcasing the trends and key metrics through various charts and visual aids. These tools were critical in turning raw data into meaningful insights and actionable recommendations.
